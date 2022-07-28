@@ -60,7 +60,7 @@
   }
   .body-1 {
     height: 900px;
-    width: 100%;
+    width: 1400px;
     position: relative;
     z-index: 100;
   }
@@ -342,6 +342,7 @@
   .body-1 img {
     height: 300px;
     width: 350px;
+    margin-left: 12.5px;
     margin-top: 60px;
   }
   .grouptext {
