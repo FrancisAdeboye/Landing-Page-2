@@ -9,7 +9,6 @@
     max-height: 100%;
   }
   .container {
-    border-style: solid;
     background-image: url('bg-header-desktop.png');
     background-repeat: no-repeat;
     max-width: 1440px;
